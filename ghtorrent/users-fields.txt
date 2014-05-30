@@ -1,0 +1,13 @@
+_id
+url
+avatar_url
+created_at
+login
+id
+followers
+gravatar_id
+public_repos
+type
+html_url
+public_gists
+following

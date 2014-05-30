@@ -1,0 +1,11 @@
+("-v", "--verbose"):
+'Enabling verbose mode.'
+
+("-l", "--log_all"):
+'Enabling logging verbose messages to file.'
+
+("-h", "--help"):
+'Shows this screen you are reading now'
+
+("-u", "--utf8"):
+'Forces writing in CSV file with UTF-8 encoding'
